@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.end2endai.traveltranslatorai'
+    namespace 'com.handry.routetracker'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.end2endai.traveltranslatorai"
+        applicationId "com.handry.routetracker"
         minSdk 24
         targetSdk 33
         versionCode 2
