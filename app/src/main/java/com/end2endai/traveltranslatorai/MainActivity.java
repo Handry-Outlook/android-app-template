@@ -18,7 +18,7 @@ import androidx.core.content.ContextCompat;
 import android.net.http.SslError;
 import android.webkit.SslErrorHandler;
 import android.widget.ImageView;
-
+import com.handry.routetracker.R;
 public class MainActivity extends AppCompatActivity {
     private static final boolean DEV_MODE = false;
     private WebView webView;
